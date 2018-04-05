@@ -1,4 +1,6 @@
-# Deep-Learning-Specialization-Coursera (https://www.coursera.org/specializations/deep-learning)
+# [Deep-Learning-Specialization-Coursera](https://www.coursera.org/specializations/deep-learning)
+
+**Master Deep Learning, and Break into AI
 
 Instructor: Andrew Ng
 
