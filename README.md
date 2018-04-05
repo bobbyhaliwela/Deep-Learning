@@ -15,4 +15,4 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    4. Understand the key parameters in a neural network's architecture
    
 **Programming Assignments**
-- [Week 2 - Programming Assignment (optional) - Python Basics with NumPy](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
+- [Week 2 - Programming Assignment (Optional) - Python Basics with NumPy](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
