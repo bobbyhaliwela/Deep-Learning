@@ -1,4 +1,4 @@
-# Deep-Learning-Cousera
+# Deep-Learning-Specialization-Coursera (https://www.coursera.org/specializations/deep-learning)
 
 Instructor: Andrew Ng
 
