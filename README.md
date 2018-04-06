@@ -17,4 +17,4 @@ This repo contains my work on all programming assignments for Deep Learning Spec
 **Programming Assignments**
 - [Week 2 - Programming Assignment (Optional) - Python Basics with NumPy](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
 - [Week 2 - Programming Assigment - Logistic Regression with a Neural Network Mindset](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
-- [Week 3 - Programming Assignment - Planar Data Classification with a Hidden Layer](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
+- [Week 3 - Programming Assignment - Planar Data Classification with One Hidden Layer](https://github.com/bobbyhaliwela/Deep-Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
