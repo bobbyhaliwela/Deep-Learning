@@ -32,5 +32,5 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    
 - **Programming Assignments**
    - [Week 1 - Programming Assignment - Initialization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
-   - [Week 1 - Programming Assignment - Regualrization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization%2B-%2Bv2.ipynb)
+   - [Week 1 - Programming Assignment - Regularization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization%2B-%2Bv2.ipynb)
    - [Week 1 - Programming Assignment - Gradient Checking](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%2BChecking%2Bv1.ipynb)
