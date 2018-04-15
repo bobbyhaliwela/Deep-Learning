@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 This repo contains my work on all programming assignments for Deep Learning Specialization on Coursera taught by Andrew Ng. All the code base, screenshot, and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
 
-**Course 1: Neural Networks and Deep Learning**
+- **Course 1: Neural Networks and Deep Learning**
 
 **Learning Objectives** :
    1. Understand the major technology trends driving Deep Learning
