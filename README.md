@@ -22,3 +22,15 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    - [Week 4 - Programming Assignment - Deep Neural Network for Image Classification: Application](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+
+- **Learning Objectives** :
+   1. Understand industry best-practices for building deep learning applications.
+   2. Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking.
+   3. Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.
+   4. Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance.
+   5. Be able to implement a neural network in TensorFlow.
+   
+- **Programming Assignments**
+   - [Week 1 - Programming Assignment - Initialization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
+   - [Week 1 - Programming Assignment - Regualrization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization%2B-%2Bv2.ipynb)
+   - [Week 1 - Programming Assignment - Gradient Checking](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%2BChecking%2Bv1.ipynb)
