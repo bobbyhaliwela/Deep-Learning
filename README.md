@@ -16,7 +16,7 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    
 - **Programming Assignments**
    - [Week 2 - Programming Assignment (Optional) - Python Basics with NumPy](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
-   - [Week 2 - Programming Assigment - Logistic Regression with a Neural Network Mindset](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
+   - [Week 2 - Programming Assignment - Logistic Regression with a Neural Network Mindset](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
    - [Week 3 - Programming Assignment - Planar Data Classification with One Hidden Layer](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
    - [Week 4 - Programming Assignment - Build Your Deep Neural Network - Step by Step](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
    - [Week 4 - Programming Assignment - Deep Neural Network for Image Classification: Application](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
@@ -35,7 +35,7 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    - [Week 1 - Programming Assignment - Regularization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization%2B-%2Bv2.ipynb)
    - [Week 1 - Programming Assignment - Gradient Checking](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201/Gradient%2BChecking%2Bv1.ipynb)
    - [Week 2 - Programming Assignment - Optimization](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Optimization%2Bmethods.ipynb)
-   - [Week 3 - Programming Assingment - TensorFlow Tutorial](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Tensorflow%2BTutorial.ipynb)
+   - [Week 3 - Programming Assignment - TensorFlow Tutorial](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Tensorflow%2BTutorial.ipynb)
 
 - **Course 4: Convolutional Neural Networks**
 
@@ -47,6 +47,6 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    
 - **Programming Assignments**
    - [Week 1 - Programming Assignment - Convolutional Neural Network: Step by Step](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%201/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
-   - [Week 1 - Programming Assingment - Convolutional Neural Network: Application](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%201/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+   - [Week 1 - Programming Assignment - Convolutional Neural Network: Application](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%201/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
    - [Week 2 - Programming Tutorial - Keras Tutorial: The Happy House](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%202/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
    - [Week 2 - Programming Assignment - Residual Networks](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%202/Residual%2BNetworks%2B-%2Bv2.ipynb)
