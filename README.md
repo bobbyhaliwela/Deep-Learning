@@ -53,3 +53,14 @@ This repo contains my work on all programming assignments for Deep Learning Spec
    - [Week 3 - Programming Assignment - Autonomous Driving - Car Detection](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%203/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
    - [Week 4 - Programming Assignment - Deep Learning & Art: Neural Style Transfer](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%204/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
    - [Week 4 - Programming Assignment - Face Recognition for the Happy House](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Convolutional%20Neural%20Network/Week%204/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+
+- **Course 5: Sequence Model**
+
+- **Programming Assignments**
+   - [Week 1 - Programming Assignment - Building a Recurrent Neural Network Step by Step](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%201/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+   - [Week 1 - Programming Assignment - Dinosaurus Island - Character Level Language Model Final](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%201/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+   - [Week 1 - Programming Assignment - Improvise a Jazz Solo with an LSTM Network](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%201/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
+   - [Week 2 - Programming Assignment - Operations on Word Vectors](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%202/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+   - [Week 2 - Programming Assignment - Emojify](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%202/Emojify%2B-%2Bv2.ipynb)
+   - [Week 3 - Programming Assignment - Neural Machine Translation with Attention](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%203/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+   - [Week 3 - Programming Assignment - Trigger Word Detection](https://github.com/bobbyhaliwela/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Model/Week%203/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
